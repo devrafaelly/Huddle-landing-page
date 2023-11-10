@@ -38,7 +38,7 @@ Mobile
 
 ### Links
 
-- URL da solução: [Solução]([https://your-solution-url.com](https://devrafaelly.github.io/Huddle-landing-page/))
+- URL da solução: [Solução](https://devrafaelly.github.io/Huddle-landing-page/)
 
 ## Meu Processo
 
